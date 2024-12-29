@@ -55,7 +55,7 @@ Just check in every day so that you don't miss out!
 
 ### **Community Expectations**
 
-Joke Class is more than a class—it's a **community**, and a joke. Our goal is to lighten each others day and bring some *jazz* to our normal routine. The below expectations are community wide, and are expected of every person, *including teachers*. 
+Joke Class is more than a class—it's a **community**, and a joke. Our goal is to lighten each others day and bring some *jazz* to our normal routine. The below expectations are community wide, and are expected of every person, *including teachers*. Failure to comply may result in a mute for the duration of the moderator.
 
 - **Be kind.** Treat others respectfully, even if you have had run-ins with them before. Everyone gets a clean slate.
 
@@ -63,7 +63,7 @@ Joke Class is more than a class—it's a **community**, and a joke. Our goal is 
 
 - **Report issues** If you see an inappropriate response, let me know. I'll take care of it and the user will be muted.
 
-Swearing: Absolutely no swearing, except light words such as "heck". Don't say anything off color or inappropriate.
+- **Swearing:** Absolutely no swearing, except light words such as "heck". Don't say anything offensive or inappropriate.
 
 ---
 
