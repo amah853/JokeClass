@@ -49,7 +49,7 @@ Just check in every day so that you don't miss out!
 
  - **Summatives**? They're posted randomly. Keep your eye out for them!
 
-- Once you submit an assignment, your work is locked, and you can't edit it. (see "1. Assignment Rules")
+- Once you submit an assignment, your work is locked, and you can't edit it. [(see "1. Assignment Rules")](https://jokeclass.ahmad-mahrous.com/syllabus#1-assignment-rules)
 
 ---
 
