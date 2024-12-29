@@ -21,7 +21,7 @@ The more, the merrier. Let's grow this amazing community!
 
 **Class Code:** `2uq63v4`
 
-**Class Invite Link:** https://jokeclass.ahmad-mahrous.com/
+**Class Invite Link:** [jokeclass.ahmad-mahrous.com](https://jokeclass.ahmad-mahrous.com/)
 
 
 #### 3. Assignment Schedule
