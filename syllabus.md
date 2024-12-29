@@ -79,7 +79,7 @@ Joke Class is more than a class—it's a **community**, and a joke. Our goal is 
 
 ### **Want to Host your OWN Assignments?** 
 
-See the "Want to suggest?" section for information about hosting assignments!
+See the ["Want to suggest?"](https://jokeclass.ahmad-mahrous.com/hosting) article for information about hosting assignments!
 
 ---
 
