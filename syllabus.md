@@ -1,32 +1,19 @@
 # Joke Class Syllabus 24-25
-
-*(sometimes we mix things up for fun, so the name of the class will temporarily change. the official name is "joke class".)  
-
-
+**(sometimes we mix things up for fun, so the name of the class will temporarily change. the official name is "joke class".)*  
 
 ## The Joke Class Community
 
-
-
 Thank you for being part of our community! This class is all about fun, shared laughter, and shared joy. Whether you're here to entertain, connect with others, or simply take a break from your day, you're in the right place. This syllabus will explain everything you might need to know before you begin to engage with our community.  
-
-
 
 ---
 
-
-
-### **Important Guidelines **
-
-
+### **Important Guidelines**
 
 #### 1. Assignment Rules
 
 - **Late to the party?** Don't worry—you aren't responsible for assignments that were posted before you joined. 
 
 - **Deadlines matter!** Most assignments lock once they're due. If the assignment is locked, you won't be able to submit a response. 
-
-
 
 #### 2. Invite Your Friends! 
 
@@ -35,7 +22,6 @@ The more, the merrier. Let's grow this amazing community!
 **Class Code:** `2uq63v4`
 
 **Class Invite Link:** https://jokeclass.ahmad-mahrous.com/
-
 
 
 #### 3. Assignment Schedule
@@ -53,7 +39,6 @@ Just check in every day so that you don't miss out!
 - **Quick replies:** I check my email very consistantly. You are more likely to get a response this way.
 
 
-
 #### 5. Grading 
 
 - I take grading seriously.kind of. Joke Class grading is all about having fun, so don't stress! Our current class average is approximately **108,394/100**—because you're all amazing.
@@ -62,15 +47,11 @@ Just check in every day so that you don't miss out!
 
  - **Formatives** are due daily.  
 
- - **Summatives**? They're random. Be looking for them!
+ - **Summatives**? They're posted randomly. Keep your eye out for them!
 
 - Once you submit an assignment, your work is locked, and you can't edit it. (see "1. Assignment Rules")
 
-
-
 ---
-
-
 
 ### **Community Expectations**
 
@@ -84,8 +65,6 @@ Joke Class is more than a class—it's a **community**, and a joke. Our goal is 
 
 Swearing: Absolutely no swearing, except light words such as "heck". Don't say anything off color or inappropriate.
 
-
-
 ---
 
 ### **Cool Features**
@@ -96,15 +75,11 @@ Swearing: Absolutely no swearing, except light words such as "heck". Don't say a
 
  - Remember: Comments should be positive. 
 
-
-
 ---
 
 ### **Want to Host your OWN Assignments?** 
 
 See the "Want to suggest?" section for information about hosting assignments!
-
-
 
 ---
 
@@ -114,11 +89,7 @@ If you've made it this far, congratulations—you just earned an **A++!**
 
 (not rlly lol get trolled)
 
-
-
 ---
-
-
 
 ### **Contact Us** 
 
@@ -126,22 +97,16 @@ If you've made it this far, congratulations—you just earned an **A++!**
 
 Ahmad Mahrous, head teacher - amah853+jokeclass@stu.op97.org
 
-Arlo Hollinden, assistant teacher ahol437+jokeclass@stu.op97.org 
+Arlo Hollinden, assistant teacher - ahol437+jokeclass@stu.op97.org 
 
 [www.ahmad-mahrous.com](https://www.ahmad-mahrous.com) 
 
 [jokeclass.ahmad-mahrous.com](https://jokeclass.ahmad-mahrous.com) 
 
-
-
 ---
-
-
 
 I can't wait for you to experience our community!!!
 
 Yours Truly,     
-
 **Ahmad Mahrous**   
-
 Joke Class Manager   
