@@ -95,13 +95,13 @@ If you've made it this far, congratulations—you just earned an **A++!**
 
 **Feel free to get in touch!**   
 
-Ahmad Mahrous, head teacher - amah853+jokeclass@stu.op97.org
+📧 Ahmad Mahrous, head teacher - amah853+jokeclass@stu.op97.org
 
-Arlo Hollinden, assistant teacher - ahol437+jokeclass@stu.op97.org 
+📧 Arlo Hollinden, assistant teacher - ahol437+jokeclass@stu.op97.org 
 
-[www.ahmad-mahrous.com](https://www.ahmad-mahrous.com) 
+🌐 [www.ahmad-mahrous.com](https://www.ahmad-mahrous.com) 
 
-[jokeclass.ahmad-mahrous.com](https://jokeclass.ahmad-mahrous.com) 
+🌐 [jokeclass.ahmad-mahrous.com](https://jokeclass.ahmad-mahrous.com) 
 
 ---
 
