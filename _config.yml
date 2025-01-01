@@ -1,5 +1,1 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: Joke Class
-description: Joke Class Website
+markdown: kramdown
