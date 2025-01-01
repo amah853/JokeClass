@@ -2,6 +2,7 @@
 layout: default
 title: "Want to Suggest?"
 ---
+
 # Want to Suggest?  
 
 Sure, but...
