@@ -4,7 +4,7 @@
 
 ## Pages
 
-- [**Home**](/home)  
+- [**Home**](/)  
   `/` or `/index` or `/invite` or `/join`
   This page redirects to the Joke Class page, and invites the user if they are not already a Joke Class member.
 
