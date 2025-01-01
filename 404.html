@@ -13,11 +13,11 @@
       line-height: 1.6;
       background: #121212;
       color: #e0e0e0;
-      overflow-x: hidden;
-      height: 100vh; /* Ensure the body takes up the full viewport height */
+      overflow: hidden; /* Ensure no scrolling */
+      height: 100vh; /* Full viewport height */
       display: flex;
-      flex-direction: column;
       justify-content: center;
+      align-items: center;
     }
 
     /* 404 Page Styles */
@@ -25,16 +25,16 @@
       background: #121212;
       color: #fff;
       text-align: center;
-      height: 100%; /* Take full height of the screen */
+      height: 100%; /* Full height */
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      padding: 0 20px;  /* Remove extra padding for better fit */
+      padding: 0 20px;  /* Adjusted for fit */
     }
 
     .error-title {
-      font-size: 4em;  /* Adjusted font size for fitting */
+      font-size: 4em;  /* Adjusted font size */
       font-weight: bold;
       margin-bottom: 20px;
       background: linear-gradient(90deg, #f44336, #ffeb3b); /* Red to Yellow gradient */
@@ -45,7 +45,7 @@
     }
 
     .error-message {
-      font-size: 1.4em;  /* Adjusted font size for better fit */
+      font-size: 1.5em;  /* Adjusted font size */
       margin-bottom: 30px;
       color: #bdbdbd;
     }
