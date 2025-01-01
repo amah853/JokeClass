@@ -14,6 +14,10 @@
       background: #121212;
       color: #e0e0e0;
       overflow-x: hidden;
+      height: 100vh; /* Ensure the body takes up the full viewport height */
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
     }
 
     /* 404 Page Styles */
@@ -21,18 +25,18 @@
       background: #121212;
       color: #fff;
       text-align: center;
-      padding: 50px 20px;  /* Reduced padding */
-      height: 50vh;  /* Set height to 50% of the viewport */
+      height: 100%; /* Take full height of the screen */
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
+      padding: 0 20px;  /* Remove extra padding for better fit */
     }
 
     .error-title {
-      font-size: 3em;  /* Reduced font size */
+      font-size: 4em;  /* Adjusted font size for fitting */
       font-weight: bold;
-      margin-bottom: 15px;  /* Reduced margin */
+      margin-bottom: 20px;
       background: linear-gradient(90deg, #f44336, #ffeb3b); /* Red to Yellow gradient */
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -41,8 +45,8 @@
     }
 
     .error-message {
-      font-size: 1.2em;  /* Adjusted font size */
-      margin-bottom: 20px;  /* Reduced margin */
+      font-size: 1.4em;  /* Adjusted font size for better fit */
+      margin-bottom: 30px;
       color: #bdbdbd;
     }
 
@@ -50,7 +54,7 @@
       display: inline-block;
       background: #f44336;
       color: #fff;
-      padding: 12px 25px;  /* Reduced padding */
+      padding: 15px 30px;
       text-decoration: none;
       font-weight: bold;
       border-radius: 5px;
