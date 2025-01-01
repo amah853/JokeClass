@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Syllabus 24-25"
+---
+
 # Joke Class Syllabus 24-25
 **(sometimes we mix things up for fun, so the name of the class will temporarily change. the official name is "joke class".)*  
 
