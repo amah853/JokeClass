@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ahmad Mahrous | Page Not Found</title>
   <style>
-    /* General Styles */
     body {
       font-family: 'Arial', sans-serif;
       margin: 0;
@@ -13,15 +12,15 @@
       line-height: 1.6;
       background: #121212;
       color: #e0e0e0;
+      overflow: hidden;
     }
 
-    /* 404 Page Styles */
     .error-page {
       background: #121212;
       color: #fff;
       text-align: center;
-      padding: 20px;
-      min-height: 100vh; /* Ensures the page takes up full viewport height */
+      padding: 0 20px;
+      height: 100vh;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -32,7 +31,7 @@
       font-size: 5em;
       font-weight: bold;
       margin-bottom: 20px;
-      background: linear-gradient(90deg, #f44336, #ffeb3b); /* Red to Yellow gradient */
+      background: linear-gradient(90deg, #f44336, #ffeb3b);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-size: 300% 300%;
@@ -40,14 +39,14 @@
     }
 
     .error-message {
-      font-size: 1.5em;
+      font-size: 2em;
       margin-bottom: 40px;
       color: #bdbdbd;
     }
 
     .error-btn {
       display: inline-block;
-      background: #f44336;
+      background: #d32f2f;
       color: #fff;
       padding: 15px 30px;
       text-decoration: none;
@@ -57,7 +56,7 @@
     }
 
     .error-btn:hover {
-      background: #ffeb3b;
+      background: #ffca28;
     }
 
     @keyframes gradientMove {
@@ -68,7 +67,6 @@
   </style>
 </head>
 <body>
-  <!-- 404 Section -->
   <section class="error-page">
     <div class="container">
       <h1 class="error-title">404 - Page Not Found</h1>
@@ -77,7 +75,6 @@
     </div>
   </section>
 
-  <!-- Smooth Scrolling Animation -->
   <script>
     ScrollReveal().reveal('.error-page', {
       duration: 2000,
