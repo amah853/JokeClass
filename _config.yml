@@ -1,1 +1,21 @@
+title: Joke Class
+description: Joke class is a fun little 'class' to bring some fun and laughs to our normal routine—it’s a community, (and a joke). Our goal is to lighten each others day and just have some fun! You can find more information at /syllabus.
+url: "https://jokeclass.ahmad-mahrous.com/"
 
+author:
+  name: Ahmad Mahrous
+  email: amah853+jokeclass@stu.op97.org
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+seo:
+  title: "Joke Class Official Site"
+  description: "Joke class is a fun little 'class' to bring some fun and laughs to our normal routine—it’s a community, (and a joke). Our goal is to lighten each others day and just have some fun!" 
+  keywords: "Joke Class, OP97, Google Classroom, Class, Joke, Jokes, Oak Park, Brooks, GBMS, Brooks Middle School, Middle School, Jokes Class, Jok class, Jke Class, Coke Class, Funny, Official, Ahmad, Ahmad Mahrous, Mahrous, Ahmad Joke Class, Ahmad Class, Ahmad Jokes, Mahrous Ahmad"
