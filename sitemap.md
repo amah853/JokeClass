@@ -47,4 +47,4 @@ title: "Sitemap"
 ---
 
 
-If you have any questions, feel free to reach out to the Joke Class Managers, [Ahmad Mahrous](mailto:amah853+jokeclass@stu.op97.org) or [Arlo Hollinden](mailto:ahol437+jokeclass@stu.op97.org)
+If you have any questions, feel free to reach out to the Joke Class Managers, **[Ahmad Mahrous](mailto:amah853+jokeclass@stu.op97.org)** or **[Arlo Hollinden](mailto:ahol437+jokeclass@stu.op97.org)**
