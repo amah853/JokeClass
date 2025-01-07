@@ -1,8 +1,3 @@
----
-layout: default
-title: "Sitemap"
----
-
 # Joke Class Sitemap
 
 ---
