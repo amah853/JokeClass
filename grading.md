@@ -19,6 +19,12 @@ title: "Grading"
 - **I was bored and I decided to click this link. What should I do with my life?**
   - Correction: What should I do ~~with my~~ *to get a* life?
 
+- **Why did my grade come in so late?**
+  - Bcuz we have a life
+
+- **How do I see other's peoples grades? It's not showing up next to their submission.** 
+  - Yea so basically you cant. Maybe you can send a feature request to google classroom or smth
+ 
 ---
 
 I probably forgot something. If I did, just ask me! [amah853+jokeclass@stu.op97.org](mailto:amah853+jokeclass@stu.op97.org)
